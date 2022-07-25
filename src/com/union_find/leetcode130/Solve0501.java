@@ -1,6 +1,5 @@
 package com.union_find.leetcode130;
 
-import org.omg.PortableInterceptor.INACTIVE;
 
 public class Solve0501 {
 

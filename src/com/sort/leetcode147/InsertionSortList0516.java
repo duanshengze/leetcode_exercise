@@ -1,6 +1,6 @@
 package com.sort.leetcode147;
 
-import com.sun.tools.internal.ws.resources.GeneratorMessages;
+
 
 public class InsertionSortList0516 {
 
