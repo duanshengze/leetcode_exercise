@@ -1,7 +1,8 @@
 package com.monotonous_stack.leetcode581;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
-import org.junit.Assert;
+
 
 public class FindUnsortedSubarrayTest extends TestCase {
 

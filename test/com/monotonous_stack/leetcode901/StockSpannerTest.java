@@ -1,7 +1,7 @@
 package com.monotonous_stack.leetcode901;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
-import org.junit.Assert;
 
 public class StockSpannerTest extends TestCase {
 

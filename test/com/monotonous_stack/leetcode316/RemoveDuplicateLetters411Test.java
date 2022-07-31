@@ -1,7 +1,8 @@
 package com.monotonous_stack.leetcode316;
 
+import junit.framework.Assert;
+
 import junit.framework.TestCase;
-import org.junit.Assert;
 
 public class RemoveDuplicateLetters411Test extends TestCase {
 

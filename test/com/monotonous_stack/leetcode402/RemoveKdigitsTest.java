@@ -1,7 +1,8 @@
 package com.monotonous_stack.leetcode402;
 
+import junit.framework.Assert;
 import junit.framework.TestCase;
-import org.junit.Assert;
+
 
 public class RemoveKdigitsTest extends TestCase {
 

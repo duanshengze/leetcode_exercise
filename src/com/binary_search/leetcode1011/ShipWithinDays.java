@@ -14,9 +14,6 @@ public class ShipWithinDays {
             right += weights[i];
         }
 
-
-
-
         while (left <= right) {
 
             int mid = (left + right) / 2;
